@@ -2,7 +2,7 @@
 音ファイル群をフォルダごとに振り分けすることをサポートするツールです。
 AIの学習用などに大量の音ファイルを振り分けたいことがあったのでそのために作成しました。
 
-![thumb](https://github.com/minfaox3/SoundFileDivider/blob/main/thumb.png?raw=true)
+![thumb](https://github.com/minfaox3/SoundFileDivider/blob/master/thumb.png?raw=true)
 
 ## 環境
 * .NET Framework 4.8
